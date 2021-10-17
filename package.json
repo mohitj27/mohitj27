@@ -5,13 +5,15 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/caglarturali/caglarturali.github.io"
+    "url": "https://github.com/mohitj27/mohitj27.github.io"
   },
-  "homepage": "https://turali.js.org",
+  "homepage": "http://mohitj27.github.io/mohitj27.github.io",
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build --no-verify",
+     "predeploy":"npm run build",
+     "deploy": "gh-pages -d build",
     "test:base": "react-scripts test --passWithNoTests",
     "test": "npm run test:base -- --watchAll=false",
     "test:watch": "npm run test:base -- --watchAll",
