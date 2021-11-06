@@ -31,7 +31,7 @@ export const pages: PageLink[] = [
     url: '/swe',
     icon: 'graduation-cap',
     isInternal: true,
-    badge: `${calculateDiplomaProgress(sweData, 0)}%`,
+    badge: `100%`,
     comp: () => <Diploma diplomaData={sweData} />,
   },
   {
@@ -39,7 +39,7 @@ export const pages: PageLink[] = [
     url: '/ba',
     icon: 'graduation-cap',
     isInternal: true,
-    badge: `${calculateDiplomaProgress(baData, 0)}%`,
+    badge: ``,
     comp: () => <Diploma diplomaData={baData} />,
   },
 ];
@@ -66,11 +66,11 @@ export const tabs: TabLink[] = [
     color: green,
     mdFileName: 'projects',
   },
-  {
-    name: 'certificates.sass',
-    url: '/certificates',
-    icon: ['fab', 'sass'],
-    color: pink,
-    mdFileName: 'certificates',
-  },
+  // {
+  //   name: 'certificates.sass',
+  //   url: '/certificates',
+  //   icon: ['fab', 'sass'],
+  //   color: pink,
+  //   mdFileName: 'certificates',
+  // },
 ];

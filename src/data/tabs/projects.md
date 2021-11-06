@@ -1,47 +1,41 @@
 ### Some of the projects I've worked on so far
 
-- [turali.js.org](https://turali.js.org/)
+- [mohitjain.tech](http://mohitjain.tech/)
 
   - The web app you are currently looking at.
   - `React`, `TypeScript`
 
-- [GetKernel](https://getkernel.now.sh/) \[_Half-baked_\]
+- [Portfolio-builder](https://github.com/mohitj27/portfolio-builder-backend) \[_baking_\]
 
-  - The kernel store for Ubuntu derivatives.
-  - `NextJS`
+  - Just give it your CV and you will get complete beautiful portfolio in react (SPA)
+  - `Reactjs`,`Nestjs`,`Natural Language Processing`,`Node.js`
 
-- [deepintr.js.org](https://deepintr.js.org/)
+- [Servi Lens](https://github.com/mohitj27/servi-lens)
 
-  - Landing page for an online community.
-  - `GatsbyJS`, `React`, `TypeScript`
+  - realtime surveillance automation and intimation generation system.
+  - `React`, `Tensorflow.js`
 
-- [Girizgah](https://turali.js.org/girizgah/)
+- [SentimentAnalysis](https://github.com/mohitj27/SentimentAnalysis)
 
-  - Greeter (LightDM Webkit) theme for Pardus Linux.
-  - `React`
+  - Application that detect the sentiment of the typed in comment or message.
+  - `Aws sageMaker,Lambda,S3`, `Python`, `Serverless Functions`
 
-- [Piyango.online](https://piyango.online/) \[_Abandoned_\]
+- [tfjs-image-classifier](https://github.com/mohitj27/rock-paper-scissor)
 
-  - [Frontend](https://piyango.online/) | [Backend](https://dev.piyango.online/)
-  - Similar to _Bilen Adam_, which is listed below.
-  - `React`, `TypeScript`, `Serverless Functions`
+  - Image classification on browser using TensorFlow.js.
+  - `Tensorflow.js`, `neural network`,`mobilnet`
 
-- [Astroloci](https://play.google.com/store/apps/details?id=com.astroloci.app)
+- [Vehicle Tracker](https://github.com/mohitj27/live-tracker)
 
-  - A horoscope application for Android.
-  - `Java`, `Express.js`
+  - Army Vehicle tracking using Blockchain abd Iot
+  - `Blockchain`, `Aws`,`Nodejs`,`Angular`
 
-- [Bilen Adam](https://play.google.com/store/apps/details?id=com.caglarturali.bilenadam)
+- [Html-JsEditor](https://github.com/mohitj27/code-player)
 
-  - Lottery machine for Turkey's national lottery games.
-  - `C#`, `Unity 3D`
+  - html, css , js code editor
+  - `JS`, `Jquery`
 
-- [2●48](https://play.google.com/store/apps/details?id=com.caglarturali.the2o48)
+- [Jan Samadhan](https://github.com/mohitj27/bhopalSch)
 
-  - A clone of the popular puzzle game 2048, with unlimited levels.
-  - `C#`, `Unity 3D`
-
-- [WatcherCatBot](https://github.com/caglarturali/WatcherCatBot/)
-
-  - A Telegram bot that returns popularity info of the given Linux distribution.
-  - `Node.js`, `Express.js`
+  - web portal which will help people to remember only one domain-name, where he/she can file his/her complaint with one of the several departments already mentioned in the complaint form
+  - `Node.js`, `Express.js`,`Angular 4`

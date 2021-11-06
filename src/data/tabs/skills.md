@@ -28,7 +28,7 @@
 - [Debian derivatives](https://www.debian.org/) || [Fedora](https://getfedora.org/) 🐧
 - [Zshell](https://en.wikipedia.org/wiki/Z_shell) ([Oh My Zsh](https://ohmyz.sh/)) 💻
 - [VSCode](https://code.visualstudio.com/) ¯\\_(ツ)_/¯
-- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) ⌨️
+- [JetBrains IntelliJ](https://www.jetbrains.com/idea/) ⌨️
 
 ### Special interests 👌
 

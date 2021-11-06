@@ -1,164 +1,81 @@
 {
   "metadata": {
-    "title": "Apprenticeship in Software Engineering",
-    "subtitle": "Specialization in Data Science",
-    "info": "Long story short, I've been thinking about pursuing a postgraduate degree in software engineering for a while now but, eventually, I've decided to go my way. So, here it is, my self-curated apprenticeship program in software engineering! I will be attending courses listed below and will be doing practical assignments throughout my studies but it won't necessarily be my priority to pursue any form of 'certificate of completion'. We'll all see how it goes. :)"
+    "title": "B.tech In Computer Science",
+    "subtitle": "Software Engineering",
+    "info": "Long Story Short, i want to do something cool like Iron man , so I am here now and I completed below listed Subjects to get the Bachelors degree in computer Science"
   },
   "semesters": [
     {
       "name": "1. Semester",
       "dates": {
-        "start": "2021-03-01",
-        "end": "2021-07-31"
+        "start": "2015-08-01",
+        "end": "2015-12-31"
       },
       "courses": [
         {
-          "courseName": "SWE 510 Introduction to Programming and Data Structures",
+          "courseName": "Applied Mathematics-I",
           "sections": [
-            {
-              "title": "C Programming with Linux Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux",
-              "progress": {
-                "completed": 7,
-                "total": 7
-              }
-            },
-            {
-              "title": "Programming & Data Structures in C++ MicroBachelors Program",
-              "url": "https://www.edx.org/microbachelors/nyux-programming-data-structures",
-              "progress": {
-                "completed": 4,
-                "total": 4
-              }
-            }
+            
           ]
         },
         {
-          "courseName": "SWE 512 Data Structures and Algorithms",
+          "courseName": "Applied Physics-I",
           "sections": [
             {
-              "title": "Intro to Data Structures and Algorithms",
-              "url": "https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513",
+              "title": "Interference and Diffraction",
+              "url": "",
               "progress": {
                 "completed": 1,
-                "total": 8
-              }
-            },
-            {
-              "title": "Computer Science Algorithms",
-              "url": "https://brilliant.org/paths/computer-science-algorithms/",
-              "progress": {
-                "completed": 1,
-                "total": 3
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 514 Introduction to Object Oriented Programming",
-          "sections": [
-            {
-              "title": "Object Oriented Programming in Java Specialization",
-              "url": "https://www.coursera.org/specializations/object-oriented-programming",
-              "progress": {
-                "completed": 4,
-                "total": 4
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 517 Database Systems",
-          "sections": [
-            {
-              "title": "Introduction to Databases MicroBachelors Program",
-              "url": "https://www.edx.org/microbachelors/nyux-introduction-to-databases",
-              "progress": {
-                "completed": 3,
-                "total": 3
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 518 Principles of Software Engineering",
-          "sections": [
-            {
-              "title": "Software Engineering Essentials",
-              "url": "https://www.edx.org/course/software-engineering-essentials",
-              "progress": {
-                "completed": 8,
-                "total": 8
-              }
-            },
-            {
-              "title": "Software Development Process",
-              "url": "https://www.udacity.com/course/software-development-process--ud805",
-              "progress": {
-                "completed": 17,
-                "total": 17
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "MAT 510 Mathematics I",
-          "sections": [
-            {
-              "title": "Math Foundations",
-              "url": "https://brilliant.org/paths/math-foundations/",
-              "progress": {
-                "completed": 2,
-                "total": 7
-              }
-            },
-            {
-              "title": "Logic Foundations",
-              "url": "https://brilliant.org/paths/logic-foundations/",
-              "progress": {
-                "completed": 0,
-                "total": 3
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "ENG 510 English I",
-          "isOptional": true,
-          "sections": [
-            {
-              "title": "The Pronunciation of American English Specialization",
-              "url": "https://www.coursera.org/specializations/american-english-pronunciation",
-              "progress": {
-                "completed": 0,
                 "total": 1
               }
             },
             {
-              "title": "Learn English: Beginning Grammar Specialization",
-              "url": "https://www.coursera.org/specializations/learn-english-beginning-grammar",
+              "title": "Theory of relativity and Nuclear physics",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Fundamentals of computing",
+          "sections": [
+            {
+              "title": "Operating Systems",
+              "url": "",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            },
+            {
+              "title": "Basics of programming",
+              "url": "",
+              "progress": {
+                "completed": 4,
+                "total": 4
               }
             }
           ]
         }
+        
       ]
     },
     {
       "name": "2. Semester",
       "dates": {
-        "start": "2021-08-01",
-        "end": "2021-12-31"
+        "start": "2016-01-01",
+        "end": "2016-05-30"
       },
       "courses": [
         {
-          "courseName": "SWE 520 Python Programming",
+          "courseName": "Applied Matheatics -II",
           "sections": [
             {
-              "title": "Python 3 Programming Specialization",
-              "url": "https://www.coursera.org/specializations/python-3-programming",
+              "title": "Partial Differentiation , Multiple Integrals",
+              "url": "",
               "progress": {
                 "completed": 5,
                 "total": 5
@@ -167,87 +84,26 @@
           ]
         },
         {
-          "courseName": "SWE 521 Secure Software Development",
+          "courseName": "Applied Physics -II",
           "sections": [
             {
-              "title": "Secure Coding Practices Specialization",
-              "url": "https://www.coursera.org/specializations/secure-coding-practices",
+              "title": "Electromagnetic Theory and band thery of solids",
+              "url": "",
               "progress": {
                 "completed": 1,
-                "total": 4
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 523 Software Requirements Engineering",
-          "sections": [
-            {
-              "title": "Requirements Engineering: Secure Software Specifications Specialization",
-              "url": "https://www.coursera.org/specializations/requirements-engineering-secure-software",
-              "progress": {
-                "completed": 0,
                 "total": 1
               }
             }
           ]
         },
         {
-          "courseName": "SWE 524 Software Design and Architecture",
+          "courseName": "Introduction to programming",
           "sections": [
             {
-              "title": "Software Design and Architecture Specialization",
-              "url": "https://www.coursera.org/specializations/software-design-architecture",
+              "title": "Concept of Algorithms,Arrays,Structure and union",
+              "url": "",
               "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Software Architecture & Design",
-              "url": "https://www.udacity.com/course/software-architecture-design--ud821",
-              "progress": {
-                "completed": 10,
-                "total": 30
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 527 Software Development Lifecycle",
-          "sections": [
-            {
-              "title": "Software Development Lifecycle Specialization",
-              "url": "https://www.coursera.org/specializations/software-development-lifecycle",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "MAT 520 Mathematics II",
-          "sections": [
-            {
-              "title": "Intermediate Math",
-              "url": "https://brilliant.org/paths/intermediate-math/",
-              "progress": {
-                "completed": 0,
-                "total": 7
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "ENG 520 English II",
-          "isOptional": true,
-          "sections": [
-            {
-              "title": "Learn English: Intermediate Grammar Specialization",
-              "url": "https://www.coursera.org/specializations/intermediate-grammar",
-              "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             }
@@ -258,182 +114,188 @@
     {
       "name": "3. Semester",
       "dates": {
-        "start": "2022-01-01",
-        "end": "2022-05-31"
+        "start": "2016-07-01",
+        "end": "2016-12-31"
       },
       "courses": [
         {
-          "courseName": "SWE 530 Introduction to Operating Systems",
+          "courseName": "Applied Mathematics -III",
           "sections": [
             {
-              "title": "Introduction to Operating Systems",
-              "url": "https://www.udacity.com/course/introduction-to-operating-systems--ud923",
+              "title": "Fourier Series,Difference Equation and Numerical methods",
+              "url": "",
               "progress": {
-                "completed": 8,
+                "completed": 21,
                 "total": 21
               }
-            },
+            }
+          ]
+        },
+        {
+          "courseName": "Foundation of Computer Science",
+          "sections": [
             {
-              "title": "Introduction to Linux",
-              "url": "https://www.edx.org/course/introduction-to-linux",
+              "title": "Formal logic , Principal of mathematical induction and Groups",
+              "url": "",
               "progress": {
-                "completed": 12,
-                "total": 18
+                "completed": 8,
+                "total": 8
               }
             }
           ]
         },
         {
-          "courseName": "SWE 532 Design and Analysis of Algorithms",
+          "courseName": "Switching Theory and Logic Design",
           "sections": [
             {
-              "title": "Algorithms Specialization",
-              "url": "https://www.coursera.org/specializations/algorithms",
+              "title": "Number Systems and Codes",
+              "url": "",
               "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 533 Computer Networking",
-          "sections": [
-            {
-              "title": "Introduction to Networking",
-              "url": "https://www.edx.org/course/introduction-to-networking",
-              "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             },
             {
-              "title": "Computer Networking",
-              "url": "https://www.udacity.com/course/computer-networking--ud436",
+              "title": "Synchronous Sequential Circuits and algorithmic state machine",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             }
           ]
         },
         {
-          "courseName": "SWE 535 Software Quality Assurance and Reliability",
+          "courseName": "Data Structures",
           "sections": [
             {
-              "title": "Software Analysis & Testing",
-              "url": "https://www.udacity.com/course/software-analysis-testing--ud333",
+              "title": "Trees and application of trees",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
+                "total": 1
+              }
+            },
+            {
+              "title": "Searching and sorting",
+              "url": "",
+              "progress": {
+                "completed": 1,
                 "total": 1
               }
             }
           ]
         },
         {
-          "courseName": "SWE 536 Software Verification and Validation",
+          "courseName": "Computer Graphics and Multimedia",
           "sections": [
             {
-              "title": "Software Testing and Automation Specialization",
-              "url": "https://www.coursera.org/specializations/software-testing-automation",
+              "title": "Components of Computer Graphics System",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
-            }
-          ]
-        },
-        {
-          "courseName": "MAT 530 Mathematics III",
-          "sections": [
+            },
             {
-              "title": "Road to Calculus + Advanced Math",
-              "url": "https://brilliant.org/paths/calculus-advanced-math/",
+              "title": "Shading Models and Data compression",
+              "url": "",
               "progress": {
-                "completed": 0,
-                "total": 9
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "ENG 530 English III",
-          "isOptional": true,
-          "sections": [
-            {
-              "title": "Learn English: Advanced Grammar and Punctuation Specialization",
-              "url": "https://www.coursera.org/specializations/advanced-grammar-punctuation",
-              "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             }
           ]
         }
+        
       ]
     },
     {
       "name": "4. Semester",
       "dates": {
-        "start": "2022-06-01",
-        "end": "2022-10-31"
+        "start": "2017-01-01",
+        "end": "2017-05-30"
       },
       "courses": [
         {
-          "courseName": "SWE 540 Computer Systems Security",
+          "courseName": "Applied Mathematics - IV",
           "sections": [
             {
-              "title": "Introduction to Cyber Security Specialization",
-              "url": "https://www.coursera.org/specializations/intro-cyber-security",
+              "title": "Partial differential Equation",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 4,
+                "total": 4
+              }
+            },
+            {
+              "title": "Probabilty theory",
+              "url": "",
+              "progress": {
+                "completed": 4,
                 "total": 4
               }
             }
           ]
         },
         {
-          "courseName": "SWE 541 Managing Software Development",
+          "courseName": "Theory of Computation",
           "sections": [
             {
-              "title": "Software Product Management Specialization",
-              "url": "https://www.coursera.org/specializations/product-management",
+              "title": "DFA & NFA",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             },
             {
-              "title": "Agile Project Management Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/umd-usmx-agile-project-management",
+              "title": "PDA, Turing Machine",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             }
           ]
         },
         {
-          "courseName": "SWE 542 Introduction to Systems Engineering",
+          "courseName": "Database Management Systems",
           "sections": [
             {
-              "title": "Introduction to Systems Engineering",
-              "url": "https://www.coursera.org/learn/systems-engineering",
+              "title": "Introductory concepts of DBMS",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
+                "total": 1
+              }
+            },
+            {
+              "title": "Functional Dependency and transaction Management",
+              "url": "",
+              "progress": {
+                "completed": 1,
                 "total": 1
               }
             }
           ]
         },
         {
-          "courseName": "SWE 544 Human Computer Interaction",
+          "courseName": "Object Oriented Programming",
           "sections": [
             {
-              "title": "Human-Computer Interaction",
-              "url": "https://www.udacity.com/course/human-computer-interaction--ud400",
+              "title": "OOP methods",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
+                "total": 1
+              }
+            },
+            {
+              "title": "Generic classes and functions",
+              "url": "",
+              "progress": {
+                "completed": 1,
                 "total": 1
               }
             }
@@ -448,41 +310,6 @@
               "progress": {
                 "completed": 0,
                 "total": 4
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "MAT 540 Mathematics IV",
-          "sections": [
-            {
-              "title": "College Mathematics",
-              "url": "https://brilliant.org/paths/college-mathematics/",
-              "progress": {
-                "completed": 0,
-                "total": 6
-              }
-            },
-            {
-              "title": "Infinity & Number Theory",
-              "url": "https://brilliant.org/paths/infinity-number-theory/",
-              "progress": {
-                "completed": 0,
-                "total": 3
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "ENG 540 English IV",
-          "isOptional": true,
-          "sections": [
-            {
-              "title": "Learn English: Writing Effectively with Complex Sentences Specialization",
-              "url": "https://www.coursera.org/specializations/learn-english-writing-grammar-complex-sentences",
-              "progress": {
-                "completed": 0,
-                "total": 1
               }
             }
           ]

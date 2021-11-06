@@ -1,18 +1,13 @@
 ### My \[academic\] background
 
-- [Software Engineering](/swe)
+- [Artificial Intelligence](/swe)
 
-  - Apprenticeship Program
-  - 2020-...
+  - Master's Program
+  - 2021-22
 
-- [Computer Education and Instructional Technologies](https://bote.kku.edu.tr/)
+- [Computer Science and Engineering]
 
-  - Kirikkale University
+  - Guru gobind Singh Indraprastha University
   - Bachelor's Degree
-  - 2010-2017
+  - 2015-2019
 
-- [Physics](https://fizik.kku.edu.tr/)
-
-  - Kirikkale University
-  - _Dropout_
-  - 2008-2010

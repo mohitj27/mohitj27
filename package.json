@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/mohitj27/mohitj27.github.io"
   },
-  "homepage": "http://mohitj27.github.io/mohitj27.github.io",
+
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts start",
