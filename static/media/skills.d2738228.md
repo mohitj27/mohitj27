@@ -12,23 +12,37 @@
 
 - In modern times:
   - Python
+  - C++
   - Dart (w/ Flutter)
   - JavaScript/TypeScript (4+ years)
     - React.js
     - Node.js
     - Express.js
-    - MongoDB
-
+    - Angular
+    - Nest.js
+  - Python Libraries
+    - Plotly
+    - Pandas
+    - Numpy
+    - cuDF
+    - SKLearn
+    - Seaborn
 - In ancient times:
   - Java (~1 year)
   - PHP/MySQL (~1 year)
+
+### DataBases
+- Mongo Db
+- SQL
+ 
 
 ### Preferences 🙏
 
 - [Debian derivatives](https://www.debian.org/) || [Fedora](https://getfedora.org/) 🐧
 - [Zshell](https://en.wikipedia.org/wiki/Z_shell) ([Oh My Zsh](https://ohmyz.sh/)) 💻
 - [VSCode](https://code.visualstudio.com/) ¯\\_(ツ)_/¯
-- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) ⌨️
+- [Jupyter](https://jupyter.org/)
+- [JetBrains IntelliJ](https://www.jetbrains.com/idea/) ⌨️
 
 ### Special interests 👌
 
