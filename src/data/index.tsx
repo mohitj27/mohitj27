@@ -35,7 +35,7 @@ export const pages: PageLink[] = [
     comp: () => <Diploma diplomaData={sweData} />,
   },
   {
-    name: 'Business Administration',
+    name: 'Artificial Intelligence',
     url: '/ai',
     icon: 'graduation-cap',
     isInternal: true,

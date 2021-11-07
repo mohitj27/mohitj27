@@ -6,7 +6,7 @@
   },
   "semesters": [
     {
-      "name": "1. Semester",
+      "name": "1st Semester",
       "dates": {
         "start": "2015-08-01",
         "end": "2015-12-31"
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "2. Semester",
+      "name": "2nd Semester",
       "dates": {
         "start": "2016-01-01",
         "end": "2016-05-30"
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name": "3. Semester",
+      "name": "3rd Semester",
       "dates": {
         "start": "2016-07-01",
         "end": "2016-12-31"
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "name": "4. Semester",
+      "name": "4th Semester",
       "dates": {
         "start": "2017-01-01",
         "end": "2017-05-30"
@@ -304,7 +304,7 @@
       ]
     },
     {
-      "name": "5. Semester",
+      "name": "5th Semester",
       "dates": {
         "start": "2017-08-01",
         "end": "2017-12-31"
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "name": "6. Semester",
+      "name": "6th Semester",
       "dates": {
         "start": "2018-01-01",
         "end": "2018-05-30"

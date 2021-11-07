@@ -1,6 +1,6 @@
 ### Some of the projects I've worked on so far
 
-- [mohitjain.tech](http://mohitjain.tech/)
+- [mohitcoder.ninja/](https://www.mohitcoder.ninja//)
 
   - The web app you are currently looking at.
   - `React`, `TypeScript`
@@ -18,7 +18,7 @@
 - [SentimentAnalysis](https://github.com/mohitj27/SentimentAnalysis)
 
   - Application that detect the sentiment of the typed in comment or message.
-  - `Aws sageMaker,Lambda,S3`, `Python`, `Serverless Functions`
+  - `AWS sageMaker,Lambda,S3`, `Python`, `Serverless Functions`
 
 - [tfjs-image-classifier](https://github.com/mohitj27/rock-paper-scissor)
 
