@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "title": "Masters in Artificial Intelligence",
+    "subtitle": "Artificial Intelligence and Machine Learning",
+    "info": ""
+  },
+  "semesters": [
+    {
+      "name": "1. Semester",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "Intelligent Agents",
+          "sections": [
+            {
+              "title": "Introduction to agent-based computing",
+              "url": "",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            },
+            {
+              "title": "Agent Interactions",
+              "url": "",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            },
+            {
+              "title": "Agent design and implementation",
+              "url": "",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Foundations of Artificial Intelligence",
+          "sections": [
+            {
+              "title": "Introduction to AI",
+              "url": "",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            },
+            {
+              "title": "Search and representing Knowledge",
+              "url": "",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            },{
+              "title": "Reasoning under uncertainity and machine learning",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Machine Learning Technologies",
+          "sections": [
+            {
+              "title": "Tools in Machine Learning",
+              "url": "",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }, {
+              "title": "Supervised and unsupervised learning",
+              "url": "",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            },
+            {
+              "title": "Deep Learning and case Studies",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2. Semester",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "Algorithmic game theory",
+          "sections": [
+            {
+              "title": "Basic Game theory Concepts",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Mechanism Design Without and With money",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Applications",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Computational Finance",
+          "sections": [
+            {
+              "title": "Data Driven Models",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "foundations of BlockChain",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Simulation Modelling For Computer Science",
+          "sections": [
+            {
+              "title": "Modelling Platforms and Environments",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Agent Based Models and General equilibrium modelling",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Finite Elements and networks",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Monte Carlo methods",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Scientific Computing Using Python",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Computer Vision",
+          "sections": [
+            {
+              "title": "The human-eye Brain System",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Image Formation and Models",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "2D Shape Representation and local features",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "3D vision systems",
+              "url": "",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extras": []
+}

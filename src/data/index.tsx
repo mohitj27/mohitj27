@@ -7,7 +7,7 @@ import { jsOrange, midBlue, green, pink } from '../theme/colors';
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
 import sweData from './json/swe.json';
-import baData from './json/ba.json';
+import baData from './json/ai.json';
 import pkg from '../../package.json';
 
 import { calculateDiplomaProgress } from '../utils';
@@ -36,7 +36,7 @@ export const pages: PageLink[] = [
   },
   {
     name: 'Business Administration',
-    url: '/ba',
+    url: '/ai',
     icon: 'graduation-cap',
     isInternal: true,
     badge: ``,
