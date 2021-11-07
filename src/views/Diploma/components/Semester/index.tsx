@@ -39,10 +39,7 @@ const Semester: React.FC<SemesterProps> = ({
   return (
     <details open={showDetails} className={classes.root}>
       <summary>
-        <span data-tip={semDuration}>
-          {name}
-          {overDue && <span className={classes.overDue}>overdue</span>}
-        </span>
+        <span data-tip={semDuration}>{name}</span>
       </summary>
       {courses.map((course) => (
         <Course key={course.courseName} courseData={course} />

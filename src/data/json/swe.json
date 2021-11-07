@@ -300,156 +300,111 @@
               }
             }
           ]
-        },
-        {
-          "courseName": "DSC 540 Introduction to Statistics and Probability",
-          "sections": [
-            {
-              "title": "Probability & Statistics",
-              "url": "https://brilliant.org/paths/probability-statistics/",
-              "progress": {
-                "completed": 0,
-                "total": 4
-              }
-            }
-          ]
         }
       ]
     },
     {
       "name": "5. Semester",
       "dates": {
-        "start": "2022-11-01",
-        "end": "2023-03-31"
+        "start": "2017-08-01",
+        "end": "2017-12-31"
       },
       "courses": [
         {
-          "courseName": "SWE 550 Cloud Computing",
+          "courseName": "Algorithms Design And Analysis",
           "sections": [
             {
-              "title": "Cloud Computing Specialization",
-              "url": "https://www.coursera.org/specializations/cloud-computing",
+              "title": "Asymptotic Notations for time and space complexity",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             },
             {
-              "title": "Cloud Application Development Foundations Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations",
+              "title": "Dynamic Programming",
+              "url": "",
               "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 550 Introduction to Data Science",
-          "sections": [
-            {
-              "title": "Intro to Data Science",
-              "url": "https://www.udacity.com/course/intro-to-data-science--ud359",
-              "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             },
             {
-              "title": "Introduction to Data Science Specialization",
-              "url": "https://www.coursera.org/specializations/introduction-data-science",
+              "title": "Greeedy Algorithms",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             }
           ]
         },
         {
-          "courseName": "DSC 553 Python for Data Science",
+          "courseName": "Software Engineering",
           "sections": [
             {
-              "title": "Data Science Fundamentals with Python and SQL Specialization",
-              "url": "https://www.coursera.org/specializations/data-science-fundamentals-python-sql",
+              "title": "Intro to Software Engineering",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             },
             {
-              "title": "Applied Data Science with Python Specialization",
-              "url": "https://www.coursera.org/specializations/data-science-python",
+              "title": "Software Project planning",
+              "url": "",
               "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 555 Introduction to Artificial Intelligence",
-          "sections": [
-            {
-              "title": "Intro to Artificial Intelligence",
-              "url": "https://www.udacity.com/course/intro-to-artificial-intelligence--cs271",
-              "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             },
             {
-              "title": "IBM Applied AI Professional Certificate",
-              "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai",
+              "title": "Software Design and testing",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             }
           ]
         },
         {
-          "courseName": "DSC 556 Machine Learning",
+          "courseName": "Java Programming",
           "sections": [
             {
-              "title": "Machine Learning",
-              "url": "https://www.coursera.org/learn/machine-learning",
+              "title": "Java Fundamentals",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             },
             {
-              "title": "IBM Data Science Professional Certificate",
-              "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+              "title": "File Handling In java",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             }
           ]
         },
         {
-          "courseName": "MAT 550 Discrete Mathematics",
+          "courseName": "Communication Skills for professionals",
           "sections": [
             {
-              "title": "Introduction to Discrete Mathematics for Computer Science Specialization",
-              "url": "https://www.coursera.org/specializations/discrete-mathematics",
+              "title": "Organizational Communication",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
-            }
-          ]
-        },
-        {
-          "courseName": "ENG 550 English V",
-          "isOptional": true,
-          "sections": [
+            },
             {
-              "title": "Learn English: Advanced Academic Speaking and Listening Specialization",
-              "url": "https://www.coursera.org/specializations/speaklistenenglish",
+              "title": "",
+              "url": "Report Writing , Listening and speaking skills",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             }
@@ -460,113 +415,89 @@
     {
       "name": "6. Semester",
       "dates": {
-        "start": "2023-04-01",
-        "end": "2023-08-30"
+        "start": "2018-01-01",
+        "end": "2018-05-30"
       },
       "courses": [
         {
-          "courseName": "DSC 560 Deep Learning",
+          "courseName": "Compiler Design",
           "sections": [
             {
-              "title": "Deep Learning Specialization",
-              "url": "https://www.coursera.org/specializations/deep-learning",
+              "title": "Brief Overview of subject",
+              "url": "",
               "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 562 Natural Language Processing",
-          "sections": [
-            {
-              "title": "Natural Language Processing Specialization",
-              "url": "https://www.coursera.org/specializations/natural-language-processing",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 564 Computer Vision",
-          "sections": [
-            {
-              "title": "Introduction to Computer Vision",
-              "url": "https://www.udacity.com/course/introduction-to-computer-vision--ud810",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 566 Cyber-Physical Systems",
-          "sections": [
-            {
-              "title": "Cyber-Physical Systems Design & Analysis",
-              "url": "https://www.udacity.com/course/cyber-physical-systems-design-analysis--ud9876",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 567 Automotive Software Engineering",
-          "sections": [
-            {
-              "title": "Emerging Automotive Technologies",
-              "url": "https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 568 Autonomous Systems Engineering",
-          "sections": [
-            {
-              "title": "Self-Driving Cars Specialization",
-              "url": "https://www.coursera.org/specializations/self-driving-cars",
-              "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             },
             {
-              "title": "Self-Driving Cars with Duckietown",
-              "url": "https://www.edx.org/course/self-driving-cars-with-duckietown",
+              "title": "Design and implementation , Symbol table",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             }
           ]
         },
         {
-          "courseName": "ENG 560 English VI",
-          "isOptional": true,
+          "courseName": "Operating Systems",
           "sections": [
             {
-              "title": "Academic English: Writing Specialization",
-              "url": "https://www.coursera.org/specializations/academic-english",
+              "title": "Introduction",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             },
             {
-              "title": "English for Research Publication Purposes Specialization",
-              "url": "https://www.coursera.org/specializations/english-for-research-publication-purposes",
+              "title": "Processes,threads and deadlock",
+              "url": "",
               "progress": {
-                "completed": 0,
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Web technology",
+          "sections": [
+            {
+              "title": "Html css ,js",
+              "url": "",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            },
+            {
+              "title": "Client Side and Server Side programming",
+              "url": "",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Artificial Intelligence",
+          "sections": [
+            {
+              "title": "Introduction and problem Solving",
+              "url": "",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            },
+            {
+              "title": "Game Playing",
+              "url": "",
+              "progress": {
+                "completed": 1,
                 "total": 1
               }
             }
@@ -580,154 +511,58 @@
       "name": "Elective Studies",
       "sections": [
         {
-          "title": "The Missing Semester of Your CS Education",
-          "url": "https://missing.csail.mit.edu/",
+          "title": "Software Testing and Quality Assurance",
+          "url": "",
           "progress": {
-            "completed": 2,
+            "completed": 11,
             "total": 11
           }
         },
         {
-          "title": "Open Source Software Development Methods",
-          "url": "https://www.coursera.org/learn/open-source-software-development-methods?specialization=oss-development-linux-git",
+          "title": "Information Security",
+          "url": "",
           "progress": {
             "completed": 1,
             "total": 1
           }
         },
         {
-          "title": "Cybersecurity Specialization",
-          "url": "https://www.coursera.org/specializations/cyber-security",
+          "title": "Data mining and Business Intelligence",
+          "url": "",
           "progress": {
-            "completed": 0,
-            "total": 5
-          }
-        },
-        {
-          "title": "Introduction to Kubernetes",
-          "url": "https://www.edx.org/course/introduction-to-kubernetes",
-          "progress": {
-            "completed": 0,
+            "completed": 1,
             "total": 1
           }
         },
         {
-          "title": "Embedded Interface Design Specialization",
-          "url": "https://www.coursera.org/specializations/embedded-interface-design",
+          "title": "Mobile Computing",
+          "url": "",
           "progress": {
-            "completed": 0,
+            "completed": 1,
             "total": 1
           }
         },
         {
-          "title": "Development of Secure Embedded Systems Specialization",
-          "url": "https://www.coursera.org/specializations/embedded-systems-security",
+          "title": "Machine Learning",
+          "url": "",
           "progress": {
-            "completed": 0,
+            "completed": 1,
             "total": 1
           }
         },
         {
-          "title": "Real-Time Embedded Systems Specialization",
-          "url": "https://www.coursera.org/specializations/real-time-embedded-systems",
+          "title": "Software Project Management",
+          "url": "",
           "progress": {
-            "completed": 0,
+            "completed": 1,
             "total": 1
           }
         },
         {
-          "title": "Introduction to High-Performance and Parallel Computing",
-          "url": "https://www.coursera.org/learn/introduction-high-performance-computing",
+          "title": "Web Intelligence And Big Data",
+          "url": "",
           "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Creating Video Games",
-          "url": "https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "CS50's Introduction to Game Development",
-          "url": "https://www.edx.org/course/cs50s-introduction-to-game-development",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "An Introduction to Programming the Internet of Things Specialization",
-          "url": "https://www.coursera.org/specializations/iot",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Data Literacy Specialization",
-          "url": "https://www.coursera.org/specializations/data-literacy",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Mathematics for Machine Learning: Linear Algebra",
-          "url": "https://www.coursera.org/learn/linear-algebra-machine-learning",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Mathematics for Machine Learning: Multivariate Calculus",
-          "url": "https://www.coursera.org/learn/multivariate-calculus-machine-learning",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "MATLAB and Octave for Beginners",
-          "url": "https://www.edx.org/course/matlab-and-octave-for-beginners",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Data Mining Specialization",
-          "url": "https://www.coursera.org/specializations/data-mining",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Big Data Specialization",
-          "url": "https://www.coursera.org/specializations/big-data",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Practical Data Science with MATLAB Specialization",
-          "url": "https://www.coursera.org/specializations/practical-data-science-matlab",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Computer Architecture",
-          "url": "https://www.coursera.org/learn/comparch",
-          "progress": {
-            "completed": 0,
+            "completed": 1,
             "total": 1
           }
         }
