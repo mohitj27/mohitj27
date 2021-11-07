@@ -1,6 +1,6 @@
 ### Some of the projects I've worked on so far
 
-- [mohitcoder.ninja/](https://www.mohitcoder.ninja//)
+- [mohitcoder.ninja/](https://www.mohitcoder.ninja/)
 
   - The web app you are currently looking at.
   - `React`, `TypeScript`
