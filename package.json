@@ -11,7 +11,7 @@
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build --no-verify",
+    "build": "react-scripts  build --no-verify",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test:base": "react-scripts test --passWithNoTests",
