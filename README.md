@@ -6,7 +6,7 @@
 
 ### Screenshot
 
-![](../gh-files/screenshots/demo.gif)
+![](demo.png)
 
 ## How to ...
 
@@ -17,7 +17,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 - Clone the repo:
 
   ```bash
-  git clone https://github.com/caglarturali/caglarturali.git portfolio-app
+  git clone https://github.com/mohitj27/mohitj27.git portfolio-app
   cd portfolio-app
   ```
 
